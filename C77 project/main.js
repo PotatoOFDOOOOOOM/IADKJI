@@ -1,0 +1,15 @@
+console.log("This is my first console project but not really because I kept this unfinished for so long :D");
+var first_name="Prahas";
+var last_name=" Kumar";
+var full_name= first_name.concat(last_name);
+console.log(full_name);
+var num=10;
+var num2=2;
+var addition= num+num2;
+console.log(addition);
+var multiplication= num*num2;
+console.log (multiplication);
+var subtraction=num-num2;
+console.log (subtraction);
+var division=num/num2;
+console.log(division);
